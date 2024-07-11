@@ -2,4 +2,5 @@
 data/
 
 # Ignore image file
+image.pngdata/
 image.png
